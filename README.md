@@ -10,8 +10,3 @@
 - Contact
 
 ---
-
-## ⚙️ Run Locally
-
-### 1️⃣ Clone Repository
-
